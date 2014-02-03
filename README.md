@@ -8,10 +8,9 @@ Display videowall that contain youtube related videos, on the end of the video.
 Plugin detects youtube video id, then download related video list from gdata.youtube.com, parse it and display as images on the end of video. When user clicks on thumbnail, script changes player source to new video and play it.
 
 ## Getting Started
-Download [videojs](http://www.videojs.com/)
-Download [videojs-youtube](https://github.com/eXon/videojs-youtube)
+Download [videojs](http://www.videojs.com/) and [videojs-youtube](https://github.com/eXon/videojs-youtube)
 
-Example code:
+In your web page:
 ```html
 <!DOCTYPE html>
 <html>
