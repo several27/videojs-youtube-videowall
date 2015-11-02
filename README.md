@@ -1,7 +1,7 @@
 Video.js - Youtube Video Wall
 =========================
 Display videowall that contain youtube related videos, on the end of the video.
-![Youtube Videowall screenchost](https://raw2.github.com/several27/videojs-youtube-videowall/master/screenshot.png)
+![Youtube Videowall screenchost](https://raw.githubusercontent.com/several27/videojs-youtube-videowall/master/screenshot.png)
 ## Live demo
 Check out live demo [here](http://jsbin.com/tave/7).
 ## How does it work
